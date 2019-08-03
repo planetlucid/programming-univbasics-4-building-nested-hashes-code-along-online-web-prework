@@ -20,5 +20,5 @@ def bonus
    }
   }
 
-  epic_tragedy["Juliet"][status:][1]
+  epic_tragedy["Juliet"][status:][dead]
 end
